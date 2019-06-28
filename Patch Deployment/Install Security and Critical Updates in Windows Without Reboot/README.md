@@ -1,0 +1,1 @@
+Please download this procedure to install critical and security updates without reboot using Windows built-in update functions. Script works well if run as "System User"
