@@ -1,0 +1,1 @@
+This script displays the IPv4 and IPv6 tables of the Endpoint.

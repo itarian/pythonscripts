@@ -1,0 +1,1 @@
+Please find below procedure to set dynamic IP address for network adaptors.

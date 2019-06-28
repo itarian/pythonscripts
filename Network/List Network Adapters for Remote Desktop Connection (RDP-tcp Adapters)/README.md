@@ -1,0 +1,1 @@
+Please use the script to get a list of network adapters which are configured for Remote Desktop Connection and get information of their Settings.

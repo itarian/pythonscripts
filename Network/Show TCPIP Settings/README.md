@@ -1,0 +1,1 @@
+It displays the TCP/IP settings of the endpoints. 
