@@ -1,0 +1,1 @@
+Please run the script as System User to get the BIOS information for Windows Endpoint
