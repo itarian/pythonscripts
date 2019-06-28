@@ -1,0 +1,1 @@
+Please run the procedure as System User or Logged in User to get the Last Booted Time of the Windows Endpoint.

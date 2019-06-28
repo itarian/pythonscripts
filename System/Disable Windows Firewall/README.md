@@ -1,0 +1,1 @@
+Please run the script as System User to disable the Firewall Completely.
