@@ -1,0 +1,1 @@
+This Script is Used to change the power setting that never goes to sleep when plugged in.
